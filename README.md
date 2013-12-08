@@ -13,3 +13,5 @@ Project test1 is a console application using the Person class.
 
 Project test3 is a play framework application using the Person class.
 
+Pull down the project and run *sbt compile* in either the test1 or test3 directories to compile the projects. This will automatically compile the test2 project first so that the references are resolved.
+
