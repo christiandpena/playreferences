@@ -1,0 +1,55 @@
+run
+compile
+projects
+project workspace-dg
+compile
+project test2
+compile
+project wo*
+ls
+projects
+project workspace-dg
+compile
+reload
+run
+compile
+reload
+compile
+reload
+compile
+run
+compil
+compile
+reload
+compile
+reload
+compile
+exit
+compile
+show
+show compile
+projects
+reload
+projects
+project test1
+projects
+compile
+reload
+projects
+compile
+project test2
+projects
+exit
+show compile:dependency-classpath
+exit
+compile
+reload
+exit
+compile
+run
+compile
+run
+compile
+run
+compile
+exit
